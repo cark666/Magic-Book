@@ -1,5 +1,5 @@
 
-conjuros_lista = open('lista_conjuros.txt', mode='r', encoding='utf-8')
+conjuros_lista = open('./leer/lista_conjuros.txt', mode='r', encoding='utf-8')
 archivo_nuevo=''
 nivel =-1
 conjuros = 0
