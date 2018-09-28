@@ -1,0 +1,120 @@
+ 
+Conjuros de druida 
+  
+Conocimiento druídico  
+Flamear  
+Garrote  
+Orientación divina  
+Remendar  
+Resistencia  
+Rociar veneno  
+Nivel 1  
+Amistad con los animales  
+Buenas bayas  
+Crear o destruir agua  
+Curar heridas  
+Detectar magia  
+Detectar veneno y enfermedad  
+Enmarañar  
+Fuego feérico  
+Hablar con los animales  
+Hechizar persona  
+Nube brumosa  
+Onda atronadora  
+Palabra curativa  
+Purificar comida y bebida  
+Salto  
+Zancada prodigiosa  
+Nivel 2  
+Animal mensajero  
+Calentar metal  
+Crecimiento de espinas 
+ 
+Encontrar trampas  
+Esfera flamígera  
+Filo flamígero  
+Inmovilizar persona  
+Localizar animales o plantas  
+Localizar objeto  
+Mejorar característica  
+Pasar sin dejar rastro  
+Piel de corteza  
+Protección contra el veneno  
+Ráfaga de viento  
+Rayo de luna  
+Restablecimiento menor  
+Visión en la oscuridad  
+Nivel 3  
+Caminar por el agua  
+Conjurar animales  
+Crecimiento vegetal  
+Disipar magia  
+Fundirse con la piedra  
+Hablar con las plantas  
+Llamar al relámpago  
+Luz del día  
+Muro de viento  
+Protección contra la energía  
+Respirar agua  
+Tormenta de aguanieve  
+Nivel 4  
+Asolar  
+Confusión 
+ 
+Conjurar elementales menores  
+Conjurar seres de los bosques  
+Controlar las aguas  
+Dominar bestia  
+Insecto gigante  
+Libertad de movimiento  
+Localizar criatura  
+Muro de fuego  
+Piel de piedra  
+Polimorfar  
+Terreno alucinatorio  
+Tormenta de hielo  
+Transformar piedra  
+Nivel 5  
+Barrera antivida  
+Comunión con la naturaleza  
+Conjurar elemental  
+Contagio  
+Curar heridas en grupo  
+Dotar de consciencia  
+Escudriñar  
+Geas  
+Ligadura de los planos  
+Muro de piedra  
+Plaga de insectos  
+Reencarnar  
+Restablecimiento mayor  
+Zancada arbórea 
+ 
+Nivel 6  
+Caminar con el viento  
+Conjurar fata  
+Encontrar la senda  
+Festín de los héroes  
+Muro de espinas  
+Rayo solar  
+Remover tierra  
+Sanar  
+Viajar mediante plantas  
+Nivel 7  
+Desplazamiento de plano  
+Espejismo arcano  
+Invertir gravedad  
+Regenerar  
+Tormenta de fuego  
+Nivel 8  
+Antipatía/simpatía  
+Controlar el clima  
+Debilidad mental  
+Explosión solar  
+Formas animales  
+Terremoto  
+Nivel 9  
+Cambiar de forma  
+Presciencia  
+Resurrección verdadera  
+Tormenta de venganza 

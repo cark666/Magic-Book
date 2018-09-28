@@ -1,0 +1,46 @@
+ 
+Conjuros de explorador  
+Nivel 1  
+Alarma  
+Amistad con los animales  
+Buenas bayas  
+Curar heridas  
+Detectar magia  
+Detectar veneno y enfermedad  
+Hablar con los animales  
+Marca del cazador  
+Nube brumosa  
+Salto  
+Zancada prodigiosa  
+Nivel 2  
+Animal mensajero  
+Crecimiento de espinas  
+Encontrar trampas  
+Localizar animales o plantas  
+Localizar objeto  
+Pasar sin dejar rastro  
+Piel de corteza  
+Protección contra el veneno  
+Restablecimiento menor 
+ 
+Silencio  
+Visión en la oscuridad  
+Nivel 3  
+Caminar por el agua  
+Conjurar animales  
+Crecimiento vegetal  
+Hablar con las plantas  
+Indetectabilidad  
+Luz del día  
+Muro de viento 
+ 
+Protección contra la energía  
+Respirar agua  
+Nivel 4  
+Conjurar seres de los bosques  
+Libertad de movimiento  
+Localizar criatura  
+Piel de piedra  
+Nivel 5  
+Comunión con la naturaleza  
+Zancada arbórea 

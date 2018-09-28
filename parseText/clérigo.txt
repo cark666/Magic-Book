@@ -1,0 +1,120 @@
+ 
+Conjuros de clérigo 
+  
+Disipar la agonía  
+Llama sagrada  
+Luz  
+Orientación divina  
+Remendar  
+Resistencia  
+Taumaturgia  
+Nivel 1  
+Bendecir  
+Crear o destruir agua  
+Curar heridas  
+Detectar el mal y el bien  
+Detectar magia  
+Detectar veneno y enfermedad  
+Escudo de la fe  
+Infligir heridas  
+Orden imperiosa  
+Palabra curativa  
+Perdición  
+Protección contra el mal y el bien  
+Purificar comida y bebida  
+Rayo guía  
+Santuario  
+Nivel 2  
+Apacible descanso  
+Arma espiritual  
+Augurio 
+ 
+Auxilio  
+Calmar emociones  
+Ceguera/sordera  
+Encontrar trampas  
+Inmovilizar persona  
+Llama continua  
+Localizar objeto  
+Mejorar característica  
+Plegaria de curación  
+Protección contra el veneno  
+Restablecimiento menor  
+Silencio  
+Vínculo custodio  
+Zona de verdad  
+Nivel 3  
+Caminar por el agua  
+Círculo mágico  
+Clarividencia  
+Crear comida y bebida  
+Disipar magia  
+Don de lenguas  
+Espíritus guardianes  
+Faro de esperanza  
+Fundirse con la piedra  
+Glifo custodio  
+Hablar con los muertos  
+Lanzar maldición  
+Luz del día 
+ 
+Palabra curativa en grupo  
+Protección contra la energía  
+Quitar maldición  
+Reanimar a los muertos  
+Recado  
+Revivificar  
+Nivel 4  
+Adivinación  
+Controlar las aguas  
+Custodia contra la muerte  
+Destierro  
+Guardián de la fe  
+Libertad de movimiento  
+Localizar criatura  
+Transformar piedra  
+Nivel 5  
+Comunión  
+Conocimiento de leyendas  
+Contagio  
+Curar heridas en grupo  
+Disipar el mal y el bien  
+Escudriñar  
+Geas  
+Golpe de llamas  
+Ligadura de los planos  
+Plaga de insectos  
+Restablecimiento mayor  
+Revivir a los muertos  
+Sacralizar 
+ 
+Nivel 6  
+Aliado de los planos  
+Barrera de cuchillas  
+Crear muertos vivientes  
+Dañar  
+Encontrar la senda  
+Festín de los héroes  
+Interdicción  
+Palabra de regreso  
+Sanar  
+Visión verdadera  
+Nivel 7  
+Conjurar celestial  
+Desplazamiento de plano  
+Etereidad  
+Palabra divina  
+Regenerar  
+Resurrección  
+Símbolo  
+Tormenta de fuego  
+Nivel 8  
+Aura sagrada  
+Campo antimagia  
+Controlar el clima  
+Terremoto  
+Nivel 9  
+Proyección astral  
+Resurrección verdadera  
+Sanar en grupo  
+Umbral 

@@ -1,0 +1,139 @@
+ 
+Conjuros de hechicero 
+  
+Contacto electrizante  
+Cuchichear mensaje  
+Ilusión menor  
+Impacto verdadero  
+Luces danzantes  
+Luz 
+ 
+Mano del mago  
+Prestidigitación  
+Rayo de escarcha  
+Rayo de fuego  
+Remendar  
+Rociar veneno  
+Salpicadura de ácido  
+Toque helado 
+ 
+Nivel 1  
+Armadura de mago  
+Caer como una pluma  
+Comprensión idiomática  
+Detectar magia  
+Disfrazarse  
+Dormir 
+ 
+Escudo  
+Falsa vida  
+Hechizar persona  
+Imagen silenciosa  
+Manos ardientes  
+Nube brumosa  
+Onda atronadora 
+ 
+Proyectil mágico  
+Retirada expeditiva  
+Rociada de color  
+Salto  
+Nivel 2  
+Abrir cerraduras  
+Agrandar/reducir  
+Ceguera/sordera  
+Contorno borroso  
+Detectar pensamientos  
+Escalada de araña  
+Estallar  
+Imagen reflejada  
+Inmovilizar persona  
+Invisibilidad  
+Levitar  
+Mejorar característica  
+Oscuridad  
+Paso brumoso  
+Ráfaga de viento  
+Rayo abrasador  
+Sugestión  
+Telaraña  
+Transformarse  
+Ver lo invisible  
+Visión en la oscuridad 
+ 
+Nivel 3  
+Acelerar  
+Bola de fuego  
+Caminar por el agua  
+Clarividencia  
+Contraconjuro  
+Disipar magia  
+Don de lenguas  
+Forma gaseosa  
+Golpe de rayo  
+Imagen mayor  
+Intermitencia  
+Luz del día  
+Miedo  
+Nube apestosa  
+Pauta hipnótica  
+Protección contra la energía  
+Ralentizar  
+Respirar agua  
+Tormenta de aguanieve  
+Volar  
+Nivel 4  
+Asolar  
+Confusión  
+Destierro  
+Dominar bestia  
+Invisibilidad mayor 
+ 
+Muro de fuerza  
+Piel de piedra  
+Polimorfar  
+Puerta dimensional  
+Tormenta de hielo  
+Nivel 5  
+Animar objetos  
+Círculo de teletransporte  
+Cono de frío  
+Creación  
+Dominar persona  
+Inmovilizar monstruo  
+Muro de piedra  
+Nube aniquiladora  
+Plaga de insectos  
+Similitud  
+Telecinesis  
+Nivel 6  
+Círculo de muerte  
+Desintegrar  
+Globo de invulnerabilidad  
+Mirada penetrante  
+Rayo solar  
+Relámpago zigzagueante  
+Remover tierra 
+ 
+Sugestión en grupo  
+Visión verdadera  
+Nivel 7  
+Bola de fuego de explosión retardada  
+Dedo de la muerte  
+Desplazamiento de plano  
+Etereidad  
+Invertir gravedad  
+Rociada prismática  
+Teleportar  
+Tormenta de fuego  
+Nivel 8  
+Dominar monstruo  
+Explosión solar  
+Nube incendiaria  
+Palabra de poder aturdidor  
+Terremoto  
+Nivel 9  
+Deseo  
+Detener el tiempo  
+Palabra de poder mortal  
+Tromba de meteoritos  
+Umbral 

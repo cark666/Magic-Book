@@ -1,0 +1,42 @@
+ 
+Conjuros de paladín  
+  
+Nivel 1  
+Bendecir  
+Curar heridas  
+Detectar el mal y el bien  
+Detectar magia  
+Detectar veneno y enfermedad  
+Escudo de la fe  
+Favor divino  
+Heroísmo 
+ 
+Orden imperiosa  
+Protección contra el mal y el bien  
+Purificar comida y bebida  
+Nivel 2  
+Arma mágica  
+Auxilio  
+Encontrar montura  
+Herida de marca  
+Localizar objeto 
+ 
+Protección contra el veneno  
+Restablecimiento menor  
+Zona de verdad  
+Nivel 3  
+Círculo mágico  
+Crear comida y bebida  
+Disipar magia  
+Luz del día  
+Quitar maldición  
+Revivificar 
+ 
+Nivel 4  
+Custodia contra la muerte  
+Destierro  
+Localizar criatura  
+Nivel 5  
+Disipar el mal y el bien  
+Geas  
+Revivir a los muertos 

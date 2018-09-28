@@ -1,0 +1,223 @@
+ 
+Conjuros de mago 
+  
+Contacto electrizante  
+Cuchichear mensaje  
+Ilusión menor  
+Impacto verdadero  
+Luces danzantes  
+Luz  
+Mano del mago  
+Prestidigitación  
+Rayo de escarcha  
+Rayo de fuego  
+Remendar  
+Rociar veneno  
+Salpicadura de ácido  
+Toque helado  
+Nivel 1  
+Alarma  
+Armadura de mago  
+Caer como una pluma  
+Comprensión idiomática  
+Detectar magia  
+Disco flotante  
+Disfrazarse  
+Dormir  
+Encontrar familiar  
+Escritura ilusoria  
+Escudo  
+Falsa vida 
+ 
+Grasa  
+Hechizar persona  
+Identificar  
+Imagen silenciosa  
+Manos ardientes  
+Nube brumosa  
+Onda atronadora  
+Protección contra el mal y el bien  
+Proyectil mágico  
+Retirada expeditiva  
+Rociada de color  
+Salto  
+Sirviente invisible  
+Terribles carcajadas  
+Zancada prodigiosa  
+Nivel 2  
+Abrir cerraduras  
+Agrandar/reducir  
+Apacible descanso  
+Arma mágica  
+Aura mágica del arcano  
+Boca mágica  
+Ceguera/sordera  
+Cerradura arcana  
+Contorno borroso  
+Detectar pensamientos  
+Escalada de araña  
+Esfera flamígera 
+ 
+Estallar  
+Flecha ácida  
+Imagen reflejada  
+Inmovilizar persona  
+Invisibilidad  
+Levitar  
+Llama continua  
+Localizar objeto  
+Oscuridad  
+Paso brumoso  
+Ráfaga de viento  
+Rayo abrasador  
+Rayo de debilitamiento  
+Sugestión  
+Telaraña  
+Transformarse  
+Truco de la cuerda  
+Ver lo invisible  
+Visión en la oscuridad  
+Nivel 3  
+Acelerar  
+Bola de fuego  
+Círculo mágico  
+Clarividencia  
+Contraconjuro  
+Corcel fantasma  
+Cubículo  
+Disipar magia  
+Don de lenguas 
+ 
+Forma gaseosa  
+Glifo custodio  
+Golpe de rayo  
+Imagen mayor  
+Indetectabilidad  
+Intermitencia  
+Lanzar maldición  
+Miedo  
+Nube apestosa  
+Pauta hipnótica  
+Protección contra la energía  
+Quitar maldición  
+Ralentizar  
+Reanimar a los muertos  
+Recado  
+Respirar agua  
+Toque vampírico  
+Tormenta de aguanieve  
+Volar  
+Nivel 4  
+Asesino fantasmal  
+Asolar  
+Cofre secreto  
+Confusión  
+Conjurar elementales menores  
+Controlar las aguas  
+Destierro  
+Elaborar  
+Escudo de fuego 
+ 
+Esfera elástica  
+Invisibilidad mayor  
+Localizar criatura  
+Mastín fiel  
+Muro de fuego  
+Ojo arcano  
+Piel de piedra  
+Polimorfar  
+Puerta dimensional  
+Sanctasanctórum privado  
+Tentáculos negros  
+Terreno alucinatorio  
+Tormenta de hielo  
+Transformar piedra  
+Nivel 5  
+Animar objetos  
+Atravesar muro  
+Círculo de teletransporte  
+Conjurar elemental  
+Cono de frío  
+Conocimiento de leyendas  
+Contactar con otro plano  
+Creación  
+Doble engañoso 
+ 
+Dominar persona  
+Escudriñar  
+Geas  
+Ligadura de los planos  
+Mano arcana  
+Modificar recuerdo  
+Muro de piedra  
+Muro de fuerza  
+Nube aniquiladora  
+Inmovilizar monstruo  
+Similitud  
+Soñar  
+Telecinesis  
+Vínculo telepático  
+Nivel 6  
+Baile irresistible  
+Círculo de muerte  
+Contingencia  
+Convocaciones instantáneas  
+Crear muertos vivientes  
+De la carne a la piedra  
+Desintegrar  
+Esfera congelante  
+Globo de invulnerabilidad 
+ 
+Guardas y custodias  
+Ilusión programada  
+Mirada penetrante  
+Muro de hielo  
+Rayo solar  
+Relámpago zigzagueante  
+Remover tierra  
+Sugestión en grupo  
+Transmigración  
+Visión verdadera  
+Nivel 7  
+Bola de fuego de explosión retardada  
+Dedo de la muerte  
+Desplazamiento de plano  
+Espada arcana  
+Espejismo arcano  
+Etereidad  
+Invertir gravedad  
+Jaula de fuerza  
+Magnífica mansión  
+Proyectar imagen  
+Recluir  
+Rociada prismática  
+Símbolo  
+Simulacro  
+Teleportar 
+ 
+Nivel 8  
+Antipatía/simpatía  
+Campo antimagia  
+Clonar  
+Controlar el clima  
+Debilidad mental  
+Dominar monstruo  
+Explosión solar  
+Laberinto  
+Mente en blanco  
+Nube incendiaria  
+Palabra de poder aturdidor  
+Semiplano  
+Nivel 9  
+Cambiar de forma  
+Cautiverio  
+Deseo  
+Detener el tiempo  
+Muro prismático  
+Némesis inexorable  
+Palabra de poder mortal  
+Polimorfar verdadero  
+Presciencia  
+Proyección astral  
+Tromba de meteoritos  
+Umbral 
